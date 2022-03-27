@@ -8,11 +8,8 @@ class Game {
 
 class GameSavingData {}
 
-function readGameSaving() {}
+export function readGameSaving() {}
 
-function writeGameSaving() {}
-
-// export function readGameSaving(){};
-// export function writeGameSaving(){};
+export function writeGameSaving() {}
 
 export default Game;
